@@ -6,11 +6,11 @@
 
 # HomeWork
 
-Question 1
+## Question 1
 What is the name of the layout file for the main activity?
 Answer: activity_main.xml
 
-Question 2
+## Question 2
 What is the name of the string resource that specifies the application's name?
 Answer: 
 
