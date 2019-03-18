@@ -12,7 +12,7 @@
 
 ### Question 2
 ##### What is the name of the string resource that specifies the application's name?
-##### Answer: 
+##### Answer: app_name
 
 ### Question 3
 ##### Which tool do you use to create a new emulator?
