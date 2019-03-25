@@ -1,5 +1,5 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-
-    buildscript {repositories {google()jcenter()
-
-    }dependencies {classpath 'com.android.tools.build:gradle:3.3.1'
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_launcher_background" />
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>
