@@ -31,3 +31,5 @@ Log.i("MainActivity", "MainActivity layout is complete");
 
 You see the statement "MainActivity layout is complete" in the Logcat pane if the Log level menu is set to which of the following? 
 ##### Answer: Verbose
+
+
