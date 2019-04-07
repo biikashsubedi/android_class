@@ -1,44 +1,22 @@
-RecyclerView - Solution code
-============================
+# Sucessfully Running
+![Recyclw view week 3,4](https://user-images.githubusercontent.com/23361796/55690593-5618e180-59b3-11e9-87c9-c8973c4e35fb.png)
 
-Uses a RecyclerView to display data. Implements a custom adapter for the
-RecyclerView.
+# HomeWork
+![Recyclw view homework week 3,4](https://user-images.githubusercontent.com/23361796/55690484-287f6880-59b2-11e9-9796-66f5fe3babdb.png)
 
-Introduction
-------------
+# Answer these questions
+#### Question 1
+##### Which of the following statements about a RecyclerView is false? Choose one.
 
-This sample shows how to use a RecyclerView to display data using a custom
-adapter to manage the data and the views.
 
-Pre-requisites
---------------
+    You don't need a layout manager with a RecyclerView to handle the hierarchy and layout of View elements.
 
-You need to know:
-- How to open, build, and run apps in Android Studio.
-- How to use the layout editor and edit XML layouts.
-- How to use adapters to display data in a UI element.
+#### Question 2
+##### Which of the following is the primary component you need to provide to an adapter a View item and its position within a RecyclerView? Choose one.
+    RecyclerView.ViewHolder
+    
 
-Getting Started
----------------
+#### Question 3
+##### Which interface do you need to implement in order to listen and respond to user clicks in a RecyclerView? Choose one.
 
-1. Download and run the app.
-
-License
--------
-
-Copyright 2018 Google, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
+    View.OnKeyListener
