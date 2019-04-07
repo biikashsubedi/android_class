@@ -2,6 +2,7 @@
 ![Two Activities gif](https://user-images.githubusercontent.com/23361796/55686567-82683a00-5982-11e9-8c35-abdda81f2947.gif)
 
 # HomeWork
+![Counter Homework gif](https://user-images.githubusercontent.com/23361796/55688808-b05a7800-599c-11e9-8433-3c0ed1beac33.gif)
 
 
 #### Answer these questions
