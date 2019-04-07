@@ -1,9 +1,9 @@
 # Sucessfully Running DroidCafe
-
+![Droid cafe gif](https://user-images.githubusercontent.com/23361796/55689820-21a02800-59a9-11e9-9358-8e80b6ddc5d0.gif)
 
 
 # HomeWork
-
+![Droid CAfe Homework](https://user-images.githubusercontent.com/23361796/55689676-47c4c880-59a7-11e9-8e86-bffc038f3f3c.png)
 
 
 
