@@ -8,10 +8,6 @@
 #### Answer these questions
 #### Question 1
 ##### If you run the homework app before implementing onSaveInstanceState(), what happens if you rotate the device? Choose one:
-
-    The EditText no longer contains the text you entered, but the counter is preserved.
-    The counter is reset to 0, and the EditText no longer contains the text you entered.
-    The counter is reset to 0, but the contents of the EditText is preserved.
     The counter and the contents of the EditText are preserved.
 
 #### Question 2
