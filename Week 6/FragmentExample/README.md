@@ -1,50 +1,27 @@
-FragmentExample_start - Starter Code
-====================================
+# Sucessfully Running on Emulator
+![Week6 1](https://user-images.githubusercontent.com/23361796/55690724-db50c600-59b4-11e9-8932-bfc1e9fc88cd.png)
+![Week6 2](https://user-images.githubusercontent.com/23361796/55690725-db50c600-59b4-11e9-8881-788f8c1158b3.png)
+![Week6 3](https://user-images.githubusercontent.com/23361796/55690728-df7ce380-59b4-11e9-8940-6842971ca7bd.png)
+![Week6 4](https://user-images.githubusercontent.com/23361796/55690729-df7ce380-59b4-11e9-805f-0391cd62a088.png)
 
-Note: Rename project folder to "FragmentExample" before opening
-in Android Studio.
 
-Use as starter code for the FragmentExample app. It provides
-an image, and the title and text of a magazine article.
 
-Introduction
-------------
 
-This app, based on the Empty Activity template, provides a starter
-layout with an image, and the title and text of a magazine
-article. The UI elements are arranged to provide a space at the
-top for adding a fragment.
 
-Pre-requisites
---------------
 
-You need to know how to:
-- Open, build, and run apps with Android Studio.
-- Use the layout editor to create a UI with a ConstraintLayout.
+# Answer these questions
+#### Question 1
+##### Which subclass of Fragment displays a vertical list of items that are managed by an adapter?
+    ListFragment()
 
-Getting Started
----------------
+#### Question 2
+##### Which of the following is the best sequence for adding a fragment to an activity that is already running?
 
-1. Download the code.
-2. Open the code in Android Studio.
-3. Run the app.
+    Declare the location for the fragment inside the activity's layout file using the <FrameLayout> view group, get an instance of the fragment and FragmentManager, and use the add() transaction.
+    Declare the location for the fragment inside the activity's layout file using the <FrameLayout> view group. Then get an instance of the fragment and FragmentManager, begin a transaction, use the add() transaction, and commit the transaction.
 
-License
--------
+#### Question 3
+##### Which statement gets a reference to a fragment using the fragment's layout resource?
 
-Copyright 2017 Google, Inc.
+    fragment = new SimpleFragment();
 
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
