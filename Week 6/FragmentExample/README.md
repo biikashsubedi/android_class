@@ -1,24 +1,50 @@
-# Sucessfully Running on Emulator
-![fragmentexample1 gif](https://user-images.githubusercontent.com/23361796/55709239-9ace6800-5a07-11e9-97f1-a3a18c7c944a.gif)
+FragmentExample_start - Starter Code
+====================================
 
+Note: Rename project folder to "FragmentExample" before opening
+in Android Studio.
 
+Use as starter code for the FragmentExample app. It provides
+an image, and the title and text of a magazine article.
 
+Introduction
+------------
 
+This app, based on the Empty Activity template, provides a starter
+layout with an image, and the title and text of a magazine
+article. The UI elements are arranged to provide a space at the
+top for adding a fragment.
 
+Pre-requisites
+--------------
 
-# Answer these questions
-#### Question 1
-##### Which subclass of Fragment displays a vertical list of items that are managed by an adapter?
-    ListFragment()
+You need to know how to:
+- Open, build, and run apps with Android Studio.
+- Use the layout editor to create a UI with a ConstraintLayout.
 
-#### Question 2
-##### Which of the following is the best sequence for adding a fragment to an activity that is already running?
+Getting Started
+---------------
 
-    Declare the location for the fragment inside the activity's layout file using the <FrameLayout> view group, get an instance of the fragment and FragmentManager, and use the add() transaction.
-    Declare the location for the fragment inside the activity's layout file using the <FrameLayout> view group. Then get an instance of the fragment and FragmentManager, begin a transaction, use the add() transaction, and commit the transaction.
+1. Download the code.
+2. Open the code in Android Studio.
+3. Run the app.
 
-#### Question 3
-##### Which statement gets a reference to a fragment using the fragment's layout resource?
+License
+-------
 
-    fragment = new SimpleFragment();
+Copyright 2017 Google, Inc.
 
+Licensed to the Apache Software Foundation (ASF) under one or more contributor
+license agreements.  See the NOTICE file distributed with this work for
+additional information regarding copyright ownership.  The ASF licenses this
+file to you under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License.  You may obtain a copy of
+the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+License for the specific language governing permissions and limitations under
+the License.
