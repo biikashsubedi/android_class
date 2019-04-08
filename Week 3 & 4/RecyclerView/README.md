@@ -1,5 +1,5 @@
 # Sucessfully Running
-![Recyclw view week 3,4](https://user-images.githubusercontent.com/23361796/55690593-5618e180-59b3-11e9-87c9-c8973c4e35fb.png)
+![RecycleView gif](https://user-images.githubusercontent.com/23361796/55706875-07466880-5a02-11e9-9389-d5b7da830292.gif)
 
 # HomeWork
 ![Recyclw view homework week 3,4](https://user-images.githubusercontent.com/23361796/55690484-287f6880-59b2-11e9-9796-66f5fe3babdb.png)
