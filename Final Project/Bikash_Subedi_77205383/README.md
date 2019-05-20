@@ -1,4 +1,5 @@
 # Final Project TODO_App
+#
 
 ### Name: TODO MVVM App
 ### Description
@@ -21,3 +22,8 @@ TODO app is an android based mobile application. I have used java programming la
 1.	MVVM (Model View ViewModel)
 ### Database
 1.	SQLite
+
+
+
+## Video
+![todo app gif](https://user-images.githubusercontent.com/23361796/57995164-54792800-7ae0-11e9-812a-f48cf3982020.gif)
